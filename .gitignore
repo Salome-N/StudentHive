@@ -1,2 +1,7 @@
 venv
 .vscode
+*.pyc
+alembic.ini
+migrations
+set_up_database.sql
+config.py
